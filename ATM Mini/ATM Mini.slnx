@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ATM Mini/ATM Mini.vcxproj" Id="e4db6489-2b06-4222-a7ac-bc0ea573ac82" />
+</Solution>
